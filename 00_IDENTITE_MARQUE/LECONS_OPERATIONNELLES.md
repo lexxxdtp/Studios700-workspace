@@ -1,0 +1,50 @@
+# Leçons Opérationnelles — Studios 700
+> Ce fichier sert à noter les problèmes rencontrés sur le terrain pour ne pas les répéter.
+
+---
+
+## 💾 Cartes mémoire perdues sur un tournage
+**Ce qui s'est passé** : Pendant le tournage d'un clip vidéo (sous-traitance pour un réalisateur en voyage), une ou plusieurs cartes mémoire ont été perdues. Résultat : re-tournage obligatoire, temps perdu, montage à recommencer.
+
+**Règle à appliquer :**
+- Toujours faire l'inventaire du matériel AVANT et APRÈS le tournage
+- Désigner un responsable matériel sur chaque tournage
+- Transférer et vérifier les rushs le soir même, avant de reformater les cartes
+- Investir dans des cartes de qualité + un système de rangement dédié
+
+---
+
+## 💸 Impayés clients
+**Ce qui se passe** : Des clients ne paient pas ou paient en retard. Actuellement 400 000 XOF en attente.
+
+**Causes identifiées :**
+- Pas d'acompte systématique avant de commencer
+- Pas de contrat écrit
+- Pas de mécanisme légal de contrainte (structure non déclarée)
+
+**Règles à appliquer dès maintenant :**
+- 50% d'acompte OBLIGATOIRE avant tout début de travail, même pour les amis
+- Solde à régler AVANT la livraison du fichier final (pas après)
+- Mentionner clairement les conditions dans chaque devis
+- Après déclaration : contrats systématiques avec clause de paiement
+
+---
+
+## 🤝 Amis et tarifs
+**Ce qui se passe** : Un ami demande un clip, Alex dit 400 000, l'ami paie 300 000 et doit 100 000 à la livraison.
+
+**Leçon** : Même avec les amis, les règles commerciales s'appliquent. Un devis écrit + acompte évite les malentendus et protège la relation à long terme.
+
+---
+
+## 📋 Sous-traitance
+**Ce qui se passe** : Alex prend des marchés via d'autres réalisateurs, mobilise une équipe, prend sa marge.
+
+**Modèle qui fonctionne :**
+- Prix de vente (ex: 500 000 PDV + 100 000 matériel)
+- Payer le freelance (100 000)
+- Garder la marge (300 000+)
+
+**À améliorer :**
+- Formaliser les accords de sous-traitance par écrit
+- Facturer sous Studios 700 (pas sous Alex Vianney perso)

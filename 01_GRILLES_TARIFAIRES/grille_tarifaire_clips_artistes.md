@@ -1,0 +1,143 @@
+# Grille Tarifaire — Clips Artistes
+> Studios 700 — team@studios700.com — +225 0777225277
+> Tarifs en vigueur : 2026
+> **Fourchette : 300 000 – 2 000 000 XOF**
+> ⚠️ En dessous de 300 000 XOF = service rendu, pas un tarif commercial Studios 700
+
+---
+
+## PACKS CLIPS
+
+### 🎬 PACK STARTER — 300 000 XOF
+> *Clip simple, rendu propre et professionnel*
+
+**Inclus :**
+- 1 journée de tournage (jusqu'à 6h)
+- 1–2 lieux de tournage
+- 2 caméras (Sony A7 IV + A7 III)
+- Montage complet + étalonnage
+- 1 version YouTube + 1 version Réseaux sociaux (vertical)
+- 1 révision incluse
+
+---
+
+### 🎬 PACK PRO — 500 000 XOF
+> *Le standard professionnel — rendu cinématique*
+
+**Inclus :**
+- 1 journée de tournage (jusqu'à 8h)
+- 2–3 lieux de tournage
+- 2 caméras + stabilisateur gimbal
+- Montage premium + motion design (générique, textes animés)
+- Étalonnage cinématique avancé
+- 2 versions finales + teaser 15–30 sec
+- Making-of pour réseaux sociaux
+- 2 révisions incluses
+
+---
+
+### 🎬 PACK CINÉMA — 800 000 XOF
+> *Production soignée, équipe complète*
+
+**Inclus :**
+- 1–2 journées de tournage
+- 3–4 lieux de tournage
+- 2–3 caméras + gimbal + éclairage pro
+- Montage haut niveau + VFX / motion design élaboré
+- Étalonnage référence film
+- Toutes versions livrables (YouTube + Réseaux + Teaser)
+- Making-of (1–2 min)
+- 3 révisions incluses
+
+---
+
+### 🎬 PACK PRESTIGE — 1 200 000 XOF
+> *Clip à fort impact visuel — niveau diaspora*
+
+**Inclus :**
+- 2 journées de tournage
+- 4–5 lieux / décors variés
+- Équipe complète (2 vidéastes + éclairagiste)
+- Drone inclus
+- Éclairage pro complet
+- Montage signature Studios 700 + VFX avancés
+- Direction artistique complète
+- Toutes versions + extraits réseaux
+- Making-of complet
+- 3 révisions + 1 retouche finale
+
+---
+
+### 👑 PACK MAJEUR — 2 000 000 XOF
+> *Production de niveau international — artiste établi*
+
+**Inclus :**
+- 2–3 journées de tournage
+- Lieux multiples / décors construits / locations premium
+- Équipe complète (réalisateur, 2–3 vidéastes, photographe, éclairagiste)
+- Drone + matériel haut de gamme (FX6 ou équivalent)
+- Éclairage studio professionnel
+- Réalisation, montage, VFX, motion design niveau export
+- Direction artistique totale (moodboard, storyboard, casting)
+- Toutes versions livrables
+- Making-of long format
+- Révisions illimitées jusqu'à validation finale
+
+---
+
+## OPTIONS À LA CARTE
+
+| Option | Prix |
+|---|---|
+| 🚁 Drone (1 journée) | + 50 000 XOF |
+| 💡 Éclairage pro loué (1 source) | + 40 000 – 80 000 XOF |
+| 📍 Lieu supplémentaire | + 50 000 XOF |
+| ⏰ Journée de tournage supplémentaire | + 150 000 XOF |
+| 🎞️ Teaser / extrait 15–30 sec | + 50 000 XOF |
+| 🔥 VFX / motion design avancé | + 100 000 – 300 000 XOF |
+| 🎬 Storyboard + direction artistique | + 100 000 XOF |
+| 📸 Shooting photo (même journée) | + 75 000 XOF |
+| 🚗 Déplacement hors Abidjan | + 50 000 – 100 000 XOF |
+| ⚡ Livraison express sous 48h | + 75 000 XOF |
+| 🔄 Révision supplémentaire | + 25 000 XOF |
+
+---
+
+## CONDITIONS
+
+- **Acompte 50% obligatoire** avant tout début de tournage
+- **Solde 50%** avant livraison du fichier final
+- Validité du devis : 30 jours
+- Livraison standard : 5–7 jours après tournage
+- Livraison via Google Drive (lien partagé)
+- Studios 700 se réserve le droit d'utiliser des extraits pour son portfolio / réseaux
+
+---
+
+## VERSION WHATSAPP
+> *Copier-coller pour répondre rapidement*
+
+---
+
+🎬 *CLIPS ARTISTES — STUDIOS 700*
+
+*STARTER — 300 000 XOF*
+1 journée • 1–2 lieux • 2 caméras • montage + étalonnage
+
+*PRO — 500 000 XOF*
+1 journée • 3 lieux • gimbal • motion design • making-of
+
+*CINÉMA — 800 000 XOF*
+1–2 journées • éclairage pro • VFX • équipe complète
+
+*PRESTIGE — 1 200 000 XOF*
+2 journées • drone inclus • direction artistique • niveau diaspora
+
+*MAJEUR — 2 000 000 XOF*
+Production internationale complète • storyboard • équipe full
+
+*Options : drone +50k | lieu supp. +50k | express +75k*
+*50% d'acompte requis avant tournage.*
+*+225 0777225277 | team@studios700.com*
+
+---
