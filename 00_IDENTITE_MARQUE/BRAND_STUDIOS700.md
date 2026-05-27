@@ -43,9 +43,10 @@
 | Graphiste attitré | (nom à compléter) | Au projet — budget négocié au cas par cas |
 
 ### Réseau freelance
-| Rôle | Nombre | Cachet |
+| Rôle | Personne / Nombre | Cachet |
 |---|---|---|
 | Photographes de confiance | 3 | 100 000 XOF minimum / opération |
+| Assistant terrain | Steven | 100 000 XOF / opération |
 | Monteur (à recruter) | — | Préférence : à la tâche / freelance |
 
 > **Point clé** : Alex prend le marché, monte l'équipe, paie les cachets, assure direction artistique + post-prod. Il est le point central.
@@ -103,6 +104,19 @@
 - **Délai** : ~1 semaine (4 jours si bien payé)
 - **Packs** : de 300 000 à 2 000 000 XOF (voir 01_GRILLES_TARIFAIRES/)
 
+### 🥛 Brand Content & UGC (Marques)
+- **Offre** : campagnes de réels / capsules vidéo pour marques et entreprises
+- **Exemple** : Bonnet Rouge — 8 réels à 150 000 XOF/unité = 1 200 000 XOF/campagne
+- **Format** : Reels Instagram, Shorts YouTube, TikTok
+- **Modèle scalable** : possibilité de sous-traiter une partie de la production
+- **À formaliser** : grille tarifaire brand content (par réel, par campagne) ✏️
+
+### ⚽ Sports & Déplacements
+- **Offre** : photos + vidéos de matchs / événements sportifs
+- **Exemple** : Yam Sokro — match San Pedro, 250 000 XOF (inclut déplacement)
+- **Point clé** : toujours intégrer transport + hébergement dans le tarif hors-Abidjan
+- **À développer** : forfait saison pour clubs régionaux ✏️
+
 ### 🎨 Identité visuelle & Infographie (via graphiste)
 - Charte graphique, logo, affiches, tickets, merchandising
 - Budget : négocié au projet entre Alex et le graphiste
@@ -143,9 +157,11 @@
 | Promoteurs d'événements | Récurrents | ⭐⭐⭐ |
 | Restaurants | Récurrents (ponctuels) | ⭐⭐⭐ |
 | Boîtes de nuit | Récurrents (ponctuels) | ⭐⭐ (sous-évalué) |
+| Marques / Brand Content | Campagnes | ⭐⭐⭐⭐ |
 | Artistes musicaux ivoiriens | Réguliers | ⭐⭐ |
-| Particuliers (mariages) | One-shot | ⭐⭐⭐⭐ |
+| Particuliers (mariages / anniversaires) | One-shot | ⭐⭐⭐⭐ |
 | Corporate/Entreprises | Occasionnel | ⭐⭐⭐⭐ |
+| Sports (clubs, matchs) | Occasionnel | ⭐⭐⭐ |
 | Sous-traitance (via autres) | Occasionnel | ⭐⭐ |
 
 ### Géographie
@@ -217,6 +233,19 @@
 | Compte bancaire dédié | Pas encore (à créer) |
 | Logiciel comptabilité | Aucun (à mettre en place) |
 
+### Semaine du 28 mai 2026 — Entrées attendues
+| Mission | Montant brut |
+|---|---|
+| Bonnet Rouge (réel n°4 sur 8) | Sur contrat global 1 200 000 XOF |
+| Restaurant Akoula (shooting) | À compléter ✏️ |
+| Nouveau restaurant (vidéo courte) | À compléter ✏️ |
+| Make Movie (after movie) | 200 000 XOF (Alex) |
+| Le West (anniversaire) | À compléter ✏️ |
+| Yam Sokro (foot San Pedro) | 250 000 XOF |
+| **Total connu cette semaine** | **~450 000 XOF + contrat Bonnet Rouge** |
+
+> Hors charges : Steven 100 000 XOF (Make Movie) + hôtel San Pedro (~30–50 000 XOF)
+
 ### Volume de production mensuel
 - ~5 vidéos boîtes de nuit
 - ~3 vidéos restaurants
@@ -231,8 +260,13 @@
 - [ ] Récupérer les 400 000 XOF impayés
 - [ ] Créer un compte bancaire dédié Studios 700
 - [ ] Instaurer 50% d'acompte systématique sur tous les projets
+- [ ] **Réserver hôtel San Pedro** (avant samedi 30 mai — mission Yam Sokro)
+- [ ] Finaliser sous-traitant pour les 3 réels Bonnet Rouge restants (+ fixer le cachet)
+- [ ] Compléter les montants des missions Akoula, Le West, nouveau restaurant
 - [ ] Créer la grille tarifaire clips artistes
+- [ ] Créer la grille tarifaire brand content (campagnes réels / UGC)
 - [ ] Créer les forfaits mensuels restaurants & boîtes de nuit
+- [ ] Proposer un forfait mensuel contenu à Bonnet Rouge après la campagne
 - [ ] Lancer le site web studios700.com (vitrine)
 - [ ] Recruter un monteur freelance (à la tâche)
 - [ ] Développer Instagram + TikTok Studios 700 (stratégie contenu)
@@ -262,6 +296,11 @@
 | Clip vidéo artiste | Via réalisateur en voyage | Prise de vue 500k + mat. 100k, sous-traitance 100k | 500 000 XOF (PDV) | 2026 |
 | CDMG SHOWEVENT (8ème éd.) | CDMG — festival annuel depuis 2019 | Charte graphique + vidéo + photo + 3D + merch + billboards. Client récurrent (au moins 2 éditions) | 2 750 000 XOF | 2025 |
 | Traphouse | Soirée nightlife premium Assinie | Récaps vidéo plusieurs éditions : Traphouse Winter, Traphouse x Bloom, Traphouse Rex | À compléter | 2025/2026 |
+| Bonnet Rouge | Marque de lait — brand content | Campagne 8 réels vidéo réseaux sociaux | 1 200 000 XOF | 2026 |
+| Make Movie | Événement tournoi réalisateurs | After movie de l'événement + shorts (avec assistant Steven) | 300 000 XOF | Mai 2026 |
+| Restaurant Akoula | Restaurant (propriétaires Amazon Akura Assini) | Shooting restaurant photo + vidéo (moodboard fourni) | À compléter | Mai 2026 |
+| Le West | Restaurant Zone 4 Marcori | Vidéo lifestyle soirée anniversaire | À compléter | Mai 2026 |
+| Yam Sokro | Équipe de football (San Pedro) | Photos + vidéo match. Déplacement 4h + hébergement inclus | 250 000 XOF | Mai 2026 |
 
 > ⭐ **Didi B Zénith de Paris** : référence internationale — animations scène concert Paris.
 > ⭐ **Joe Dwet Filé** : coverage presse 3 jours complets (aéroport → radio → TV → concert + drone). Preuve de capacité presse artistique pro.
