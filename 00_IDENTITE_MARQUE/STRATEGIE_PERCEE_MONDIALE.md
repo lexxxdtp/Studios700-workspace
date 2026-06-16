@@ -140,7 +140,34 @@ ABIDJAN (base + preuve)  →  FRANCE / DIASPORA (1er pont int'l)  →  MONDE / H
 
 ---
 
-## 9. CE QU'IL FAUT ARRÊTER
+## 9. BOÎTE À OUTILS INTERNATIONALE (les 5 leviers pro à maîtriser)
+
+> Ce sont les outils qui font la différence entre "un bon vidéaste qui rêve de l'international" et "une structure que les marques mondiales engagent sans stress". Chacun est concret et activable.
+
+### 9.1 — Le Director's Treatment (ta meilleure arme commerciale)
+Quand une marque ou une agence lance une campagne, elle envoie un brief à quelques réalisateurs et choisit sur la base de leur **note d'intention** (Director's Treatment). C'est CE document qui décroche un budget à 5 chiffres, pas ton devis. C'est la compétence la plus rentable à acquérir tout de suite — entraîne-toi dessus même sur tes projets actuels (clip, event, pub locale). Template prêt en section 13.
+
+### 9.2 — Le Carnet ATA (ton passeport matériel) ✅ Côte d'Ivoire éligible
+Document douanier international qui te permet de **sortir et rentrer ton matériel (caméras, optiques, drones, station de montage) sans payer de taxes ni risquer la saisie** dans ~80 pays. La Côte d'Ivoire fait partie du système — tu peux donc émettre ton carnet depuis Abidjan via la Chambre de Commerce. Sans ça, franchir une frontière avec 20 000 $ de matériel = blocage en douane ou taxe d'import qui paralyse le tournage. **À préparer avant ton premier vrai déplacement de prod à l'étranger.**
+
+### 9.3 — Les clauses de contrat international (ce qui rend le voyage rentable, pas coûteux)
+Un contrat de prod à l'étranger doit imposer au client :
+- **Voyage + hébergement prépayés** par le client (vols, hôtel de standing, visas, transport local) — jamais à ta charge.
+- **Per diem** journalier pour toi ET chaque membre d'équipe (repas/dépenses), indexé sur le coût de vie de la destination.
+- **Dépenses non-remboursables couvertes** : tu n'es pas responsable d'un vol/hôtel annulé du fait du client.
+- **Force majeure** : suspension sans pénalité en cas d'imprévu (espace aérien fermé, catastrophe…).
+- **Responsabilité matériel** : le client assure la sécurité de l'équipe et la casse du matériel sur plateau à risque (ex: bord de piste auto).
+
+### 9.4 — La méthode "servir les sponsors, pas l'organisateur" (pour percer les grands events)
+Pour entrer sur un F1, un Roland-Garros, un grand festival : **tu ne démarches pas la fédération ou l'organisateur, tu démarches les marques qui activent leur image autour de l'event.** Confirmé : à Roland-Garros, ce sont Accor, Lacoste, Renault (film signé Jonas Lindstroem) qui produisent du contenu de luxe autour du tournoi — pas la fédé. Ton job : filmer **l'univers, le lifestyle, l'exclusivité** autour de l'event (palaces, soirées, architecture, vêtement), pas le sport lui-même. Tu deviens le traducteur visuel de la stratégie de contenu de la marque.
+
+### 9.5 — Les barèmes d'équipes internationales (pour chiffrer et arbitrer)
+Repères de tarifs journaliers à l'international (USD) : Directeur photo (DP) 800–2 500+ ; opérateur Steadicam ~675–1 250 ; ingé son 600–1 500 ; assistant prod 250–456 ; location studio 470–997.
+> **Ton avantage stratégique** : tu factures la captation et la supervision créative au **prix fort du marché mondial**, mais tu produis la **post-prod / VFX / 3D depuis Abidjan** où les coûts sont optimisés. C'est là que se logent tes plus grosses marges.
+
+---
+
+## 10. CE QU'IL FAUT ARRÊTER
 
 - Arrêter d'accepter les petits projets (<150–200 K) qui rentrent juste parce qu'ils rentrent. Chaque petit projet vole le temps d'en fabriquer un grand.
 - Arrêter de monter soi-même tout ce qui n'a pas ta signature.
@@ -148,7 +175,7 @@ ABIDJAN (base + preuve)  →  FRANCE / DIASPORA (1er pont int'l)  →  MONDE / H
 
 ---
 
-## 10. MÉTRIQUES DE RÉUSSITE
+## 11. MÉTRIQUES DE RÉUSSITE
 
 | Horizon | Signe que ça décolle |
 |---|---|
@@ -159,7 +186,7 @@ ABIDJAN (base + preuve)  →  FRANCE / DIASPORA (1er pont int'l)  →  MONDE / H
 
 ---
 
-## 11. LA VÉRITÉ FINALE
+## 12. LA VÉRITÉ FINALE
 
 Le lifestyle que tu décris est réel et atteignable — mais c'est la niche créative la plus convoitée de la planète. Ce qui sépare ceux qui y arrivent de ceux qui en rêvent, ce n'est **jamais le désir**. C'est trois choses : **une signature reconnaissable + une marque perso + de la preuve auto-produite en boucle**, plus le courage de dire non aux petits projets.
 
@@ -184,3 +211,43 @@ Tu n'es pas en retard. À 23 ans, avec 98 K abonnés, Didi B au Zénith, SDM et 
 - [AI Video Generation in 2026: 5 Trends to Watch (Inspix AI)](https://inspix.ai/blog/ai-video-generation-2026-trends-to-watch)
 - [Himra – Primud d'or 2025 (AllAfrica)](https://fr.allafrica.com/stories/202510110207.html)
 - [Top 5 artistes ivoiriens prêts à conquérir le monde en 2026 (IBS News)](https://ibsnews.co/top-5-artistes-ivoiriens-prets-a-conquerir-le-monde-en-2026/)
+- [ATA Carnet – pays membres (ATA Carnet)](https://www.atacarnet.com/carnet-countries)
+- [Renault × Roland-Garros "The Court" — Jonas Lindstroem (Iconoclast)](https://iconoclast.tv/fr/directors/jonas-lindstroem/renault-x-roland-garros)
+
+---
+
+## 13. ANNEXE — TEMPLATE : Director's Treatment (note d'intention réalisateur)
+> *À réutiliser pour chaque pitch de marque/agence. Remplis les [crochets]. Vise 6–12 pages avec des images de référence (moodboard) à chaque section. Une prose riche + des visuels, jamais des listes sèches.*
+
+**PROJET** : [Nom de la marque] — [Titre de la campagne]
+**RÉALISATEUR** : Alex Vianney — Studios 700
+**DATE** : [date]
+
+---
+
+**1. WHY ME — pourquoi moi**
+> 1 paragraphe percutant. Pourquoi ta voix est l'évidence pour CE projet. Connecte ton univers (culture urbaine, FPV, fusion réel + 3D, audience 98K) au besoin de la marque. Ce qu'aucun autre réalisateur n'a.
+
+**2. THE STORY — mon interprétation**
+> Comment tu racontes le script, de l'ouverture à la clôture. L'émotion, l'évolution, le lien subtil avec le produit. Pas un résumé — ta vision narrative.
+
+**3. TONE & BRAND ALIGNMENT — ton & cohérence de marque**
+> L'atmosphère visuelle. Couleur, étalonnage, rythme de montage. Comment ça sert le message et les valeurs de la marque. Montre que tu as compris leur cible.
+
+**4. CASTING & PERFORMANCE**
+> Profils d'acteurs/mannequins. L'énergie, le regard, l'attitude que tu veux extraire. Images de référence.
+
+**5. ART DIRECTION & WARDROBE — direction artistique & stylisme**
+> Décors, textures, lumière, garde-robe. En luxe, un détail faux ruine tout. Moodboard.
+
+**6. CAMERAWORK & EQUIPMENT — grammaire visuelle**
+> Comment tu captures. Optiques (anamorphique pour le ciné ?), mouvements (grue, gimbal, plongées FPV agressives). Le matériel au service de l'émotion.
+
+**7. SOUND & VFX/3D — son & post-production**
+> La vision sonore (musique, sound design) et le traitement VFX/3D photoréaliste. La partie que les amateurs négligent et qui te distingue.
+
+**8. EXECUTION & FEASIBILITY — faisabilité**
+> Tu es un rêveur pragmatique. Anticipe les défis (lieux, foule, fond vert, météo), montre que tu maîtrises le budget et la logistique. Rassure l'agence.
+
+---
+> 🎯 **Règle d'or** : un treatment se travaille autant que le film. Analyse les treatments gagnants d'autres réalisateurs internationaux pour affiner le tien. C'est ta machine à convertir un brief en contrat.
