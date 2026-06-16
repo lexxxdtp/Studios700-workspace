@@ -45,3 +45,11 @@
 - [ ] **Trouver et tester un monteur vidéo freelance** (à la tâche) :
   - [ ] Rédiger une mini-charte graphique de montage (polices, styles de cuts, étalonnage) pour qu'il respecte le style "Alex Vianney".
   - [ ] Lui confier un premier montage simple pour tester sa réactivité et sa qualité.
+
+---
+
+## 🎤 5. Levier Musical (Cercle Proche)
+- [ ] **Pitcher 1-2 artistes montants de ton cercle d'enfance** sur un projet de co-production (Pack Coprod) :
+  - [ ] Proposer un teaser FPV + VFX/3D court (15-30s) pour leur prochain single/album.
+  - [ ] Établir la règle du crédit visible + publication en co-auteur Instagram/TikTok.
+- [ ] **Créer 1 modèle de Spotify Canvas / Visualiseur 3D** (pendant ton apprentissage Blender/AE) pour leur montrer ta nouvelle capacité de production remote et le leur vendre (Pack Visualiseur 3D à 150 000 XOF).

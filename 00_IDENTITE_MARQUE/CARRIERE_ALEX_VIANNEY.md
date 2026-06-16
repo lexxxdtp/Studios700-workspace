@@ -75,3 +75,15 @@ graph TD
 * **Le concept** : Mélanger le tournage de sujets réels (dans le studio physique *Respective Hub* à la Palmeraie) avec des environnements 3D imaginaires, géométriques ou futuristes créés sur Blender et fignolés sur After Effects.
 * **Pourquoi c'est ton monopole ?** C'est une barrière technique que 99% d'Abidjan ne peut pas franchir. C'est universel (la 3D parle à Paris comme à New York) et c'est ce qui te sort du lot par rapport aux cadreurs classiques.
 * **La règle de survie** : Passer d'un « exécutant débordé » à un « directeur de création rare ». Ne plus faire les montages sans signature de fin ou sans valeur ajoutée technique.
+
+---
+
+## 🤝 6. LE FIEF DES ARTISTES IVOIRO-DIASPORA (TON LEVIER MAJEUR)
+* **L'origine** : Alex a commencé par créer des pochettes (covers) pour ses amis d'enfance qui s'amusaient à chanter. Aujourd'hui, ces mêmes amis sont devenus les artistes incontournables et les têtes montantes de la scène ivoirienne (Himra, Didi B, et toute la nouvelle génération).
+* **Le positionnement** : Tu n'es pas un prestataire externe qui mendie des tournages. Tu es leur **compagnon de route historique et leur égal artistique**. Ce statut de "famille" te donne un accès exclusif et informel à tous ces artistes.
+* **Les 4 Règles de Co-création pour éviter le piège des tarifs d'amis et maximiser le levier** :
+  1. **Le "Pack Coprod" (Pas de rabais passif)** : Si un ami artiste influent a un budget trop serré (ex: 200K XOF), n'accepte pas de faire un clip classique à perte. Fais une coproduction créative : en échange du rabais, tu imposes ton scénario à 100% (idéal pour tester des concepts 3D/VFX), tu places ta signature "Alex Vianney / Studios 700" en grand au début et à la fin, tu as le droit exclusif de poster les coulisses (BTS) sur ton TikTok (98K), et tu obtiens des mentions actives (tags collaboratifs) sur leurs posts Instagram.
+  2. **Les Visualiseurs 3D / Spotify Canvas** : Au lieu de mobiliser des jours de tournage physique fatigants pour peu de cash, vends-leur des visuels animés 3D en boucle ou des Spotify Canvas (faits sur Blender/After Effects). C'est ultra-rapide à produire, ça valorise ton apprentissage 3D, et c'est très recherché pour les lancements d'albums.
+  3. **Le BTS en co-auteur (Double audience)** : Lors de chaque collaboration, filme les coulisses avec ta Pocket 3. Publie des POVs ou des mini-vlogs en format "collaborateur" sur Instagram/TikTok. L'artiste valide ton travail auprès de sa communauté, et toi tu propulses ta marque personnelle auprès de ses fans.
+  4. **Grandir en meute** : Quand ils montent à l'international (ex: tournée US de Himra), tu dois être le réalisateur évident qu'ils emmènent dans leurs valises. Utilise le carnet ATA pour être prêt à bouger à tout moment.
+

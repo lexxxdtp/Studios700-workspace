@@ -87,11 +87,11 @@
 - **Tarif à formaliser** ✏️
 
 ### 🎤 Clips vidéo artistes
-- **Mode actuel** : sur mesure à chaque fois, pas de grille
-- **Problème** : les clients demandent toujours "c'est quoi tes prix ?" → grille à créer
-- **Approche recommandée** : tarif de base minimum + options selon contraintes
-- **Tarif minimum absolu** : 150 000 XOF (objectif : monter à 200 000 XOF)
-- **Note** : Alex n'aime pas les clips quand il n'aime pas le son — mais si bien payé, il le fait car c'est sa passion
+- **Mode actuel** : Sur mesure & Grille de packs.
+- **L'avantage réseau** : Accès direct, historique et informel aux têtes montantes et artistes établis de la Côte (Himra, Didi B, etc.) qui sont des amis d'enfance.
+- **Règle de coproduction** : Pas de rabais passif pour les amis. S'ils manquent de budget, appliquer le **"Pack Coprod"** (50% de rabais contre liberté créative totale, signature visible d'Alex Vianney/Studios 700, coulisses TikTok exclusives et tags de collaboration Instagram).
+- **Tarif minimum commercial** : 300 000 XOF (Starter) à 2 000 000 XOF (Majeur).
+- **Offre 3D à fort impact** : Vendre des **Visualiseurs 3D / Spotify Canvas** animés en boucle sur Blender/After Effects. Idéal pour capitaliser sur sa formation 3D et livrer des produits rentables et scalables en remote pour les lancements.
 
 ### 🎤 Événements & Corporate
 - **Offre** : captation photo + vidéo complète (conférences, séminaires, événements)

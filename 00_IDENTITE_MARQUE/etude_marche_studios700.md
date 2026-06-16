@@ -12,7 +12,8 @@ Abidjan est le hub culturel et économique de l'Afrique de l'Ouest francophone. 
 * **Le manque de compétences techniques avancées** : Le marché d'Abidjan est saturé d'amateurs qui filment au téléphone ou font des montages basiques. En revanche, **les agences capables de produire du Motion Design, des effets spéciaux (VFX) et de la 3D de qualité internationale se comptent sur les doigts d'une main**. C'est là que réside la valeur de Studios 700.
 
 ### B. Le marché de l'Événementiel & de la Musique
-* Abidjan est le cœur du Rap Ivoire et de l'Afrobeats francophone. Les artistes de la diaspora (France/Europe) et locaux ont besoin de clips à l'esthétique internationale pour s'exporter.
+* **Le boom du Rap Ivoire & diaspora** : Abidjan est le cœur battant du Rap Ivoire et de l'Afrobeats francophone. Les artistes locaux et de la diaspora (France/Europe) exigent des clips à l'esthétique mondiale pour s'exporter.
+* **Ton avantage concurrentiel unique (Le Fief artistique)** : Alex a grandi en créant des pochettes pour ses amis d'enfance qui sont aujourd'hui au cœur de l'industrie (Himra, Didi B, et toute la nouvelle vague d'artistes montants). Ce réseau historique donne à Studios 700 un accès exclusif de confiance pour capter ce marché de la musique à la racine.
 * Les promoteurs de festivals (comme le CDMG) et de soirées nightlife premium (comme le Traphouse) investissent des dizaines de millions XOF chaque année. Ils cherchent des prestataires fiables capables de gérer à la fois l'identité visuelle (branding) et la production audiovisuelle.
 
 ---

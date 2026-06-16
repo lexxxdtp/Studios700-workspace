@@ -85,6 +85,30 @@
 
 ---
 
+### 🎨 PACK VISUALISEUR 3D / SPOTIFY CANVAS — 150 000 XOF
+> *Visuel 3D animé en boucle pour lancements ou Spotify, sans tournage*
+
+**Inclus :**
+- 1 boucle d'animation 3D (Blender / After Effects) — 8 à 15 sec
+- Format vertical 9:16 (idéal Spotify Canvas & Shorts/Reels)
+- Intégration de la cover 2D ou modélisation d'un élément central 3D
+- Sound design / boucle audio synchronisée
+- 2 révisions incluses
+
+---
+
+### 🤝 PARTENARIAT CRÉATIF / COPRODUCTION (CERCLE PROCHE)
+> *Modèle hybride pour tes amis artistes de la scène montante qui manquent de budget.*
+
+**Règle d'or :** Pas de rabais sans contrepartie. Si un artiste influent de ton cercle d'enfance demande un clip mais a un budget limité (ex: 200 000 XOF), applique la formule de **Coproduction** :
+- **Budget réduit** : Fixé au cas par cas (couvre au moins les frais de déplacement/matériel).
+- **Liberté créative totale** : L'artiste te donne carte blanche sur le scénario et le traitement visuel (l'occasion parfaite de tester tes techniques de FPV, VFX et 3D).
+- **Crédit & Visibilité** : Mention "Un film de Alex Vianney" et logo "Studios 700" obligatoires en début et fin de clip.
+- **Co-auteur Instagram & TikTok** : L'artiste doit publier le clip ou teaser en co-auteur Instagram avec `@studios700_` et `@alexvianneyk`.
+- **Droit d'exploitation BTS** : Tu as l'autorisation exclusive de tourner et poster le making-of (BTS) en format POV sur ton TikTok de 98K abonnés.
+
+---
+
 ## OPTIONS À LA CARTE
 
 | Option | Prix |
@@ -121,14 +145,17 @@
 
 🎬 *CLIPS ARTISTES — STUDIOS 700*
 
+*VISUALISEUR 3D / CANVAS — 150 000 XOF*
+Boucle 3D animée (Blender/AE) • 9:16 Spotify Canvas & Reels • Sans tournage
+
 *STARTER — 300 000 XOF*
-1 journée • 1–2 lieux • 2 caméras • montage + étalonnage
+1 journée • 1-2 lieux • 2 caméras • montage + étalonnage
 
 *PRO — 500 000 XOF*
 1 journée • 3 lieux • gimbal • motion design • making-of
 
 *CINÉMA — 800 000 XOF*
-1–2 journées • éclairage pro • VFX • équipe complète
+1-2 journées • éclairage pro • VFX • équipe complète
 
 *PRESTIGE — 1 200 000 XOF*
 2 journées • drone inclus • direction artistique • niveau diaspora
@@ -136,8 +163,11 @@
 *MAJEUR — 2 000 000 XOF*
 Production internationale complète • storyboard • équipe full
 
-*Options : drone +50k | lieu supp. +50k | express +75k*
-*50% d'acompte requis avant tournage.*
+*PARTENARIAT CRÉATIF / COPROD (Cercle Proche)*
+Pour tes potes artistes : Budget adapté + Liberté créative 100% + Co-auteur Insta/TikTok + Crédits Studios 700 visibles.
+
+*Options : drone +50k | VFX avancé +100k | express +75k*
+*50% d'acompte requis avant début de projet.*
 *+225 0777225277 | team@studios700.com*
 
 ---

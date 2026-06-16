@@ -63,6 +63,7 @@ Les réalisateurs-voyageurs sont presque tous **(1) + (2) en même temps** : une
 3. **Le pont France ↔ Abidjan déjà ouvert** : ami artiste en France + artistes français déjà servis. C'est l'axe exact de mondialisation de l'afropop francophone.
 4. **Un coût de structure imbattable** : produire/livrer du niveau international depuis Abidjan = marges énormes, prix compétitifs partout.
 5. **Le combo rare** : tournage + post (VFX/3D/IA) **+ FPV** dans une seule tête. Les réalisateurs purs sous-traitent le post ; les motion designers ne tournent pas. Le combo, c'est la position la plus chère du marché.
+6. **⭐ TON MEILLEUR ATOUT — le réseau d'artistes de la génération montante.** Tu as commencé en filmant/coverant tes amis qui chantaient quand vous étiez petits. Ces amis sont aujourd'hui **les têtes montantes du rap/afropop ivoirien.** Tu as accès direct à des artistes au sommet (Himra, Didi B…) ET tu connais personnellement **toute la vague d'en dessous** qui monte — et ils te connaissent tous. C'est un **fossé concurrentiel imprenable** : un réalisateur étranger ou une grosse agence ne peut pas acheter 10 ans de relations d'enfance. Tu es littéralement positionné pour devenir **LE réalisateur attitré de la génération qui s'apprête à exploser** (cf. section 2B : la case du réalisateur de référence francophone est vide). Grandis avec eux : tu fais leurs clips maintenant, et quand ils percent à l'international, tu pars avec eux. **C'est ça, ton billet pour le monde.**
 
 ---
 
