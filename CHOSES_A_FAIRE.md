@@ -19,13 +19,15 @@
 ---
 
 ## 📷 2. Matériel & Technique
+- [ ] **Remplacer le zoom standard 28-70mm f/2.8** (déclaré irréparable en France) par un zoom polyvalent du quotidien (type Sigma 24-70mm f/2.8 ou Tamron 28-75mm G2) en priorité absolue de tournage.
 - [ ] **Régler le problème de caméra principale** :
-  - [ ] Choisir entre un **Sony A7S III d'occasion** (recommandé pour la basse lumière des clubs) ou une **Sony FX30 neuve**.
+  - [ ] Choisir entre un **Sony A7S III d'occasion** (pour la basse lumière des clubs) ou une **Sony FX30 neuve**.
   - [ ] Inspecter le capteur du A7 IV actuel (évaluer la gêne des points de laser).
 - [ ] **Acheter une barrette de RAM de 16 Go DDR5** pour la tour de montage (urgence édition).
 - [ ] **Sécuriser le stockage** :
   - [ ] Acheter des disques durs externes de backup temporaires.
   - [ ] Planifier l'achat d'un NAS pour centraliser tous les rushs de Studios 700.
+- [ ] **Objectif d'investissement futur** : Acquérir le MacBook Pro 16" (M4/M5 Max, 48 Go RAM, 1 To SSD) dès l'encaissement d'un gros marché pour centraliser ton workflow en mode nomade.
 
 ---
 

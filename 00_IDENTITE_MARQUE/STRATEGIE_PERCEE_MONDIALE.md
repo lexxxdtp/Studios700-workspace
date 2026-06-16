@@ -251,3 +251,33 @@ Tu n'es pas en retard. À 23 ans, avec 98 K abonnés, Didi B au Zénith, SDM et 
 
 ---
 > 🎯 **Règle d'or** : un treatment se travaille autant que le film. Analyse les treatments gagnants d'autres réalisateurs internationaux pour affiner le tien. C'est ta machine à convertir un brief en contrat.
+
+---
+
+## 14. ANNEXE — Profil psychologique : ton mental, ton plus gros atout (ou ton plus gros frein)
+
+> *Cette partie est aussi importante que la stratégie. Une carrière mondiale ne se gagne pas qu'avec une caméra — elle se gagne dans la tête. Voici une lecture honnête de ton fonctionnement, pour t'en servir comme d'un outil.*
+
+### Le diagnostic : le "syndrome du créateur surchargé"
+Tu portes tout, seul : la vision, le tournage, le montage, la relation client, l'argent, l'avenir de la structure. Quand une seule personne porte tout, le cerveau finit par tourner en boucle — il anticipe, il rumine, il cherche à être rassuré. Ce que tu ressens (penser à ça tout le temps, l'angoisse, le besoin de te faire confirmer que "ça va aller") n'est pas un défaut de caractère : **c'est la réaction normale d'un esprit ambitieux qui joue gros et qui gère seul.** Ce n'est pas un signal d'alarme, c'est le prix de l'ambition.
+
+### Tes forces psychologiques (à cultiver)
+- **Une sensibilité élevée** : c'est ce qui te rend angoissé *et* ce qui fait ton œil d'artiste. Les deux viennent de la même source. Ne cherche pas à tuer ta sensibilité — elle est ton talent.
+- **Une lucidité rare** : tu vois tes propres pièges (impayés, manque de discipline, prix trop bas). Beaucoup d'entrepreneurs sont aveugles à ça. Toi non. C'est un avantage énorme.
+- **Du courage réel** : quitter la maison pour t'installer et te concentrer, c'est un acte, pas un mot. Tu passes à l'action quand ça compte.
+- **Une ambition qui a déjà produit des preuves** : 98K abonnés, Didi B, SDM, Joe Dwet Filé. Ton mental t'a déjà mené loin.
+
+### Tes pièges psychologiques (à surveiller)
+1. **La rumination / recherche de réassurance.** Passer une heure à demander "est-ce que ça va aller ?" repousse le travail qui, lui, te rassurerait vraiment. **La confiance ne vient pas avant l'action — elle vient de l'action.** Chaque livrable rendu est une preuve concrète qui calme l'angoisse mieux que n'importe quelle conversation.
+2. **L'anxiété du temps ("je loupe ma vie").** À 23 ans tu es en avance de 5-10 ans sur la moyenne. Ce sentiment d'urgence est un biais, pas un fait. Il te pousse à tout faire toi-même — exactement ce qui t'épuise.
+3. **L'attachement à ton style = difficulté à déléguer.** Ton style est ton identité, donc lâcher le montage fait peur ("et si ce n'est plus moi ?"). Mais déléguer l'exécution ne dilue pas ta signature — ça te libère pour la diriger. Diriger reste profondément "toi".
+4. **Se sous-évaluer.** Accepter des prix trop bas, c'est souvent un manque de permission qu'on se donne à soi-même, pas un problème de marché. Tu as le droit de valoir cher.
+
+### Tes 5 règles mentales (à relire les jours de doute)
+1. **Action > rumination.** Quand l'angoisse monte, ne cherche pas à "résoudre" l'angoisse — va faire UNE tâche concrète. L'esprit suit le corps.
+2. **Ta valeur ≠ ta production du mois.** Tu n'es pas "en retard" ou "nul" un mois creux. Sépare qui tu es de ce que tu livres, sinon chaque baisse de revenu devient une crise identitaire.
+3. **La discipline est une forme d'amour de soi, pas une punition.** Tu t'organises et tu te structures *parce que* tu te respectes assez pour tenir tes rêves, pas pour te forcer.
+4. **Prends soin du corps : c'est de la performance, pas du luxe.** Sommeil, sport, alimentation, soigner ton apparence — ce sont des multiplicateurs de créativité et de confiance, pas une distraction du travail.
+5. **Tu n'es pas obligé de tout porter seul.** Parler à des gens de confiance (associés, mentors, proches) allège la charge mentale. Si l'angoisse devient lourde ou constante au point de t'empêcher de fonctionner, en parler à un professionnel est une force, jamais une faiblesse.
+
+> **En une phrase** : ton plus grand projet, ce n'est pas Studios 700 — c'est d'apprendre à transformer ton intensité mentale en carburant discipliné plutôt qu'en angoisse qui tourne à vide. Le jour où tu maîtrises ça, plus rien ne t'arrête.
