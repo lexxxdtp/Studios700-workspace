@@ -183,6 +183,7 @@
 - Objectif Viltrox 16mm f/1.8 (Grand angle idéal pour clubs et événements)
 - Zoom 28-70mm f/2.8 (HS — Envoyé en France, irréparable, à remplacer)
 - Drone DJI Avata 2 (Pilotage FPV - pour les vidéos de voitures et festivals)
+- Caméra DJI Osmo Pocket 3 (Idéale pour les Vlogs, coulisses BTS et Reels verticaux)
 - Stabilisateur DJI RS 4 Pro (Gimbal haut de gamme)
 - Moniteur de terrain (Field Monitor) + Trépied professionnel + Batteries de secours
 - Kit Audio DJI Mic Mini (Micro sans fil de poche)
