@@ -122,17 +122,24 @@
 
 ## 6. CONDITIONS COMMERCIALES
 
-### Situation actuelle (à faire évoluer)
+### Situation actuelle & Règles de Trésorerie
 | Élément | Situation actuelle | Objectif |
 |---|---|---|
 | Acompte | Rarement demandé (~10% des cas) | 50% systématique à la commande |
-| Solde | À la livraison | À la livraison après validation |
-| Contrats | Pas encore (confiance) | Contrats écrits après déclaration officielle |
-| Durée validité devis | Pas définie | À fixer (ex: 30 jours) |
-| Révisions incluses | Pas défini | À définir par type de prestation |
+| Solde | À la livraison | À la livraison avant remise des fichiers propres |
+| Contrats | Pas encore (confiance) | Contrats écrits systématiques |
+| Durée validité devis | Pas définie | 30 jours max |
+| Révisions incluses | Pas défini | 1 révision majeure incluse |
+
+### 🌍 Règles Contractuelles Internationales (Déplacements)
+Pour tout contrat hors de la zone locale (Abidjan) :
+* **Dépenses de Mobilité (Travel & Lodging)** : Le client doit réserver et prépayer les billets d'avion long-courriers, les hébergements de standing adéquat et les transports locaux.
+* **Indemnités Journalières (Per Diem)** : Le client verse une indemnité journalière (~69$ à 74$/jour ou équivalent XOF) pour la nourriture et dépenses courantes de chaque équipier déployé.
+* **Garantie sur Réservations** : Les frais non remboursables en cas d'annulation du fait du client sont à sa charge exclusive.
+* **Force Majeure & Matériel** : Clauses de suspension sans pénalité en cas d'imprévus mondiaux. Assurances matérielles obligatoires couvertes par le client sur les plateaux à risques (comme les courses automobiles).
 
 ### ⚠️ Point critique
-> **+400 000 XOF impayés en cours.** Problème récurrent de clients qui ne paient pas. Sans déclaration officielle, pas de mécanisme légal de contrainte. La déclaration de la structure est une priorité pour régler ça.
+> **+800 000 XOF impayés en cours.** Problème récurrent de clients qui ne paient pas (CDMG, Ami artiste, Boîte de nuit). La déclaration de la structure est une priorité absolue pour sécuriser légalement ces flux.
 
 ---
 
@@ -182,8 +189,9 @@
 - Objectif Sony 50mm f/1.8
 - Objectif Viltrox 16mm f/1.8 (Grand angle idéal pour clubs et événements)
 - Zoom 28-70mm f/2.8 (HS — Envoyé en France, irréparable, à remplacer)
-- Drone (selon projet)
+- Drone DJI Avata 2 (Pilotage FPV - pour les vidéos automobiles et festivals)
 - Stratégie d'achat immédiate : Acheter un zoom standard (type 24-70mm f/2.8) en priorité, et acquérir un **Sony A7S III d'occasion** ou une **Sony FX30 neuve** pour sécuriser le setup double caméra.
+- **Logistique Douanière** : Utilisation obligatoire d'un **Carnet ATA** (Admission Temporaire) pour le transport du matériel lors des tournages internationaux (France, Kenya, Émirats) pour éviter les taxes et saisies en douane.
 
 ### Informatique
 - PC Tour : Intel i5-13500 + RTX 4070 (montage et rendu)
@@ -275,7 +283,24 @@
 * **Horizon 2 (12–24 mois) — Le pont avec la France** : Décrocher un premier clip payé en euros pour un artiste de la diaspora basé en France, et positionner des services de 3D/VFX à distance depuis Abidjan.
 * **Horizon 3 (24–60 mois) — La marque mondiale** : Décrocher une représentation de réalisateur à l'international (Lagos, Paris, Londres) pour couvrir de gros événements mondiaux tout en s'appuyant sur Studios 700 pour la production.
 
-### B. Ce qu'il faut arrêter de faire :
+### B. Le Plan "Spec Work" (Création de la Preuve Visuelle)
+Pour attirer des marques de luxe, de l'automobile et des gros sponsors (comme Lacoste, Accor, Renault), tu dois produire 3 pièces maîtresses fictives auto-initiées :
+1. **Spot Automobile Hybride** : Tourner un véhicule de luxe en intégrant des mouvements FPV agressifs, un étalonnage cinéma lourd et de l'incrustation 3D (remplacement de ciel, particules, reflets 3D).
+2. **Aftermovie Expérientiel "Tomorrowland-Style"** : Filmer un événement local (comme CDMG) mais le monter avec le rythme et la grandeur d'un festival mondial.
+3. **Publicité Narrative Fictive** : Une publicité conceptuelle pour une marque de luxe qui prouve ta capacité à diriger le jeu d'acteurs et à sculpter la lumière de studio.
+
+### C. La Méthodologie du "Director's Treatment" (Pour remporter les appels d'offres)
+Pour signer des contrats à plusieurs dizaines de milliers de dollars, le devis ne suffit pas. Tu dois rédiger un document visuel structuré selon ce plan :
+1. **Introduction & Plaidoyer ("Why Me")** : Pourquoi ton œil de réalisateur et ton passif sont l'adéquation parfaite.
+2. **Interprétation Narrative (The Story)** : Déconstruction scène par scène de la publicité.
+3. **Ton, Style & Identité de Marque** : Choix artistiques de l'ambiance lumineuse et colorimétrique.
+4. **Casting & Performances** : Profil et attitude corporelle des comédiens/modèles.
+5. **Stylisme & Art Direction** : Choix des décors et des vêtements (essentiel dans le luxe).
+6. **Camerawork & Équipement** : Grammaire visuelle (FPV, anamorphique, stabilisateurs).
+7. **Conception Sonore & Post-Production (VFX)** : Rendre les effets spéciaux 3D invisibles et concevoir une bande-son immersive.
+8. **Faisabilité & Logistique** : Prouver aux agences que le tournage est gérable techniquement et financièrement.
+
+### D. Ce qu'il faut arrêter de faire :
 - **Dire oui aux projets < 150K–200K XOF** : Chaque petit projet bloque le temps nécessaire pour en faire un grand.
 - **Tout monter soi-même** : Seul le montage avec ta propre signature visuelle doit être fait par toi. Le reste doit être délégué (via la méthode des Proxies).
 - **Mesurer le succès uniquement au cash du mois** : La vraie métrique actuelle est : *« Ai-je produit ce mois-ci une pièce visuelle d'envergure internationale ? »*

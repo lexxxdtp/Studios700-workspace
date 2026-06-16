@@ -37,14 +37,24 @@
 
 ---
 
-## 🎓 3. OBJECTIFS D'APPRENTISSAGE & COMPÉTENCES
-* **After Effects (Motion Design / VFX)** :
-  - Améliorer la maîtrise via des playlists de formation dédiées.
-  - Objectif : Créer des génériques animés, des overlays complexes et des effets spéciaux de haut niveau pour les clips.
-* **Blender (3D / Virtual Production)** :
-  - Apprentissage actif.
-  - **Axe principal** : *Camera Tracking* (suivi de mouvement) et création de décors virtuels (Virtual Sets).
-  - **Objectif** : Utiliser le studio physique **"Le Hub"** (Palmeraie) pour tourner des sujets réels et les incruster dans des univers 3D créés sur Blender.
+## 🎓 3. PROGRAMME D'APPRENTISSAGE SUR 6 SEMAINES
+Pour débloquer tes compétences en VFX/3D et justifier des tarifs "Studio Créatif" premium, voici ta feuille de route d'apprentissage :
+
+* **Semaine 1 — Fondamentaux & Psychologie de l'Animation (After Effects)** :
+  - *Sujet* : Fluidité du mouvement (lissage de vitesse, courbes d'animation).
+  - *Délivrable* : Création d'une introduction animée fluide (Habillage vidéo, vendable ~100 000 XOF).
+* **Semaines 2-3 — Animation UI & Style Tech/Apple** :
+  - *Sujet* : Animation d'interfaces logicielles épurées (très demandée par les SaaS et startups tech).
+  - *Délivrable* : Animation d'interface fictive de 20 secondes (vendable ~250 000 XOF).
+* **Semaines 3-4 — Spot Explicatif Complet (SaaS Explainer Ad)** :
+  - *Sujet* : Narration visuelle intégrale liée à un argumentaire de vente.
+  - *Délivrable* : Vidéo explicative animée de 45 secondes (Service premium vendable ~450 000 XOF).
+* **Semaines 4-5 — Immersion 3D (After Effects) & Habillage d'Interviews** :
+  - *Sujet* : Logique spatiale, caméras virtuelles et dynamisation de capsules d'interviews.
+  - *Délivrable* : Interview habillée (marge additionnelle de 100K à 250K XOF).
+* **Semaines 4+ (En fil rouge) — Blender 3D & Rendu Photoréaliste** :
+  - *Sujet* : Modélisation, lumières, textures et Camera Tracking (suivi de mouvement).
+  - *Délivrable* : Modélisation d'un objet publicitaire hautement réaliste (bouteille de parfum, montre). Base de l'incrustation 3D au studio *Respective Hub* (Palmeraie).
 
 ---
 
