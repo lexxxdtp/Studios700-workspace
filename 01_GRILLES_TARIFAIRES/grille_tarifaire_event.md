@@ -11,3 +11,20 @@
 | 5 | Pack MIXTE | 1 Récap Vidéo Poussé + 2 Réels/Clips + 1 Couverture Photo | Vidéo 40s + 50 photos retouchées | 290 000 |
 | 6 | Pack PREMIUM | 2 Vidéastes (60s Récap PRO) + 1 Photographe Pro + 4 Réels/Clips | Vidéo 60s PRO + 80 photos retouchées | 550 000 |
 | — | Pack PHOTOS | 1 Photographe (50 photos retouchées) | Couverture photo seule | 100 000 |
+
+---
+
+## 🎨 OFFRE CRÉATIVE : AFFICHES ANIMÉES & ÉCRANS (CONCERTS / FESTIVALS)
+> *Pour les promoteurs d'événements et concerts qui veulent une communication dynamique et des écrans géants spectaculaires.*
+
+| N° | Nom du Pack | Services Inclus | Format Garanti | PRIX (XOF) |
+|:--:|:--:|:--:|:--:|:--:|
+| A | **Affiche Animée (Teaser)** | Animation 2D/3D d'une affiche existante (motion design, effets visuels) | Vertical 9:16 (15–30 sec) | **75 000** |
+| B | **Pack Line-Up / Annonces** | Teaser d'annonce du concert + Affiche animée principale + animations annonce artistes | Multi-formats (9:16 & 16:9) | **150 000** |
+| C | **Visuels de Scène (LED Loops)** | Boucles vidéo animées 3D/VFX pour diffusion en arrière-plan pendant la performance | Horizontal 16:9 (Loops de 30 sec) | **100 000 / loop** ou **350 000 / pack (5 loops)** |
+| D | **Branding Événement Complet** | Logo animé (intro/outro) + Affiche animée + Pack Line-up + Aftermovie premium + 3 Loops d'écrans | Campagne complète | **600 000** |
+
+### Conditions & Options :
+- **Acompte 50% obligatoire** avant tout début de conception.
+- **Rendus 3D complexes (Blender)** : Sur devis selon complexité (généralement +50K à +150K XOF).
+- **Livraison express (48h)** : +50 000 XOF.

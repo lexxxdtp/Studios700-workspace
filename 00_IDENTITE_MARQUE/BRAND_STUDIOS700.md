@@ -258,16 +258,24 @@
 | Projet | Client | Détail | Montant | Année |
 |---|---|---|---|---|
 | Zénith de Paris — Didi B | Réalisateur de Didi B | ~30 animations visuelles sur écrans scène pendant le concert | 500 000 XOF | 2025/2026 |
+| Ninho — Concert Abidjan | Promoteur local | Captation vidéo multicam & drone du concert | À compléter | 2025 |
+| Freeze Corleone — Concert Abidjan | Promoteur local | Captation vidéo officielle et direction média | À compléter | 2024/2025 |
+| Franglish — Concert Abidjan | Promoteur local | Direction de la couverture média vidéo officielle | À compléter | 2024 |
 | Joe Dwet Filé — Concert Abidjan | Joe Dwet Filé (artiste français) | Coverage 3 jours complets : aéroport, radio, TV, concert + drone. Photo + vidéo | À compléter | 2025 |
 | SDM — Concert Abidjan | SDM (rappeur français) | Spot promo + captation concert + affiches 12m² + tickets + infographie | À compléter | 2024/2025 |
+| CAF (Confédération Africaine de Football) | CAF | Accréditation photojournaliste officielle (matchs et événements) | Tarifs presse | 2024/2025 |
+| Morijah — Live & Promo | Label de l'artiste | Accréditation média, captation live et visuels réseaux | À compléter | 2024/2025 |
+| Desperados Pocket Party | Heineken/Desperados CI | Captation vidéo dynamique & Aftermovie de la soirée | À compléter | 2025 |
 | Clip vidéo artiste | Via réalisateur en voyage | Prise de vue 500k + mat. 100k, sous-traitance 100k | 500 000 XOF (PDV) | 2026 |
 | CDMG SHOWEVENT (8ème éd.) | CDMG — festival annuel depuis 2019 | Charte graphique + vidéo + photo + 3D + merch + billboards. Client récurrent (au moins 2 éditions) | 2 750 000 XOF | 2025 |
 | Traphouse | Soirée nightlife premium Assinie | Récaps vidéo plusieurs éditions : Traphouse Winter, Traphouse x Bloom, Traphouse Rex | À compléter | 2025/2026 |
 
 > ⭐ **Didi B Zénith de Paris** : référence internationale — animations scène concert Paris.
-> ⭐ **Joe Dwet Filé** : coverage presse 3 jours complets (aéroport → radio → TV → concert + drone). Preuve de capacité presse artistique pro.
-> ⭐ **SDM** : rappeur français signé Sony — prestation complète identité visuelle + AV. Référence diaspora à valoriser.
-> → Ces 3 références françaises sont des arguments de vente majeurs pour attirer des promoteurs ivoiriens travaillant avec la diaspora.
+> ⭐ **Ninho, SDM, Freeze Corleone, Franglish** : Récaps officiels et captation live pour les plus grosses têtes d'affiche du rap francophone en tournée à Abidjan.
+> ⭐ **CAF (Confédération Africaine de Football)** : Accréditation officielle média de photojournaliste. Preuve de rigueur et d'accréditation institutionnelle de haut niveau.
+> ⭐ **Joe Dwet Filé & Morijah** : Coverage média de longue durée et relation de confiance avec des artistes phares locaux et diaspora.
+> ⭐ **Desperados (Heineken)** : Collaboration avec une multinationale de boissons pour du contenu de marque dynamique.
+> → Ces références prestigieuses de tournées et d'événements majeurs sont des arguments de vente exceptionnels pour convaincre les sponsors et promoteurs d'investir sur du contenu de marque haut de gamme.
 
 ---
 
