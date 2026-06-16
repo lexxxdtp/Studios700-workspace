@@ -10,7 +10,7 @@
 |---|---|
 | Nom officiel | Studios 700 |
 | Type | Studio multidisciplinaire |
-| Statut juridique | En cours de déclaration officielle |
+| Statut juridique | SARL (70% Alex Koffi / 30% Père) — En cours de création au CEPICI |
 | Fondateur | Alex Koffi (alias Alex Vianney), 23 ans |
 | Ville | Abidjan, Côte d'Ivoire |
 | Site web | studios700.com (domaine acheté, site en construction) |
@@ -23,14 +23,15 @@
 ---
 
 ## 2. FONDATEUR & VISION
+> 🎬 Pour le détail des objectifs de marque personnelle et de réalisateur, voir le profil dédié : [CARRIERE_ALEX_VIANNEY.md](file:///Users/alexvianneykoffi/Documents/Claude/Projects/studios700/00_IDENTITE_MARQUE/CARRIERE_ALEX_VIANNEY.md).
 
-- **Alex Koffi**, 23 ans, basé à Abidjan
-- Connu personnellement sous le nom **Alex Vianney** (réputation terrain + réseaux perso)
+- **Alex Koffi**, 23 ans, basé à Abidjan (Récemment installé près du centre-ville pour plus de réactivité)
+- Connu personnellement sous le nom **Alex Vianney** (réputation terrain + communauté TikTok de 98K abonnés)
 - Passionné de vidéo, photo, motion design, 3D
-- Passage de passion → professionnel structuré avec la déclaration officielle de Studios 700
-- **Rôle** : CEO, directeur artistique, réalisateur, monteur principal, coordinateur terrain
-- **En ce moment** : submergé par le montage (sessions 6h+), veut déléguer pour scaler
-- **Prochaine étape perso** : déménagement dans son propre appartement → espace créatif dédié + contenu perso
+- Passage de passion → professionnel structuré avec la déclaration officielle de Studios 700 (SARL 70/30)
+- **Rôle** : CEO, directeur artistique, réalisateur, monteur principal, coordinateur de l'espace de création au studio "Le Hub" (Palmeraie)
+- **En ce moment** : submergé par le montage (sessions 6h+), veut déléguer pour scaler et se libérer du temps pour apprendre Blender/After Effects
+- **Prochaine étape perso** : Déménagement effectué → espace créatif dédié + création de contenu pour son personal branding
 
 ---
 
@@ -40,7 +41,7 @@
 | Rôle | Personne | Rémunération |
 |---|---|---|
 | CEO / Réalisateur / Monteur | Alex Koffi | — |
-| Graphiste attitré | (nom à compléter) | Au projet — budget négocié au cas par cas |
+| Graphiste attitré | En transition (2-3 graphistes freelances en cours de test) | Au projet — budget négocié au cas par cas |
 
 ### Réseau freelance
 | Rôle | Nombre | Cachet |
@@ -163,9 +164,9 @@
 
 | Plateforme | Compte | Abonnés | Régularité |
 |---|---|---|---|
-| Instagram | Studios 700 | ~100 | Irrégulier |
+| Instagram | @studios700_ | ~100 | Irrégulier |
 | TikTok | Studios 700 | ~100 | Irrégulier |
-| Instagram perso | Alex Vianney | (à compléter) | — |
+| Instagram perso | @alexvianneyk | ~4 450 | Actif (Prestige) |
 | Site web | studios700.com | En construction | — |
 | Portfolio | En développement | Pas encore en ligne | — |
 
@@ -176,12 +177,13 @@
 ## 9. MATÉRIEL & OUTILS
 
 ### Caméras & Optiques
-- Sony A7 IV (caméra principale polyvalente)
-- Sony Alpha A7 III (backup / deuxième angle)
-- Objectif 50mm f/1.4 (capsules restaurants, plans cinématiques)
-- Objectif 70-200mm f/2.8
+- Sony A7 IV (Seul boîtier fonctionnel actuellement - capteur partiellement endommagé par des lasers)
+- Sony Alpha A7 III (HS — Hors service)
+- Objectif Sony 50mm f/1.8
+- Objectif Viltrox 16mm f/1.8 (Grand angle idéal pour clubs et événements)
+- Zoom 28-70mm f/2.8 (HS — Envoyé en France, irréparable, à remplacer)
 - Drone (selon projet)
-- À acheter : Sony FX3 (ou FX6), plus de cartes mémoire, accessoires, lumières
+- Stratégie d'achat immédiate : Acheter un zoom standard (type 24-70mm f/2.8) en priorité, et acquérir un **Sony A7S III d'occasion** ou une **Sony FX30 neuve** pour sécuriser le setup double caméra.
 
 ### Informatique
 - PC Tour : Intel i5-13500 + RTX 4070 (montage et rendu)
@@ -226,19 +228,13 @@
 ---
 
 ## 11. CHANTIERS EN COURS (par priorité)
+> 📝 Le suivi complet et mis à jour de la feuille de route est disponible dans le fichier principal : [CHOSES_A_FAIRE.md](file:///Users/alexvianneykoffi/Documents/Claude/Projects/studios700/CHOSES_A_FAIRE.md).
 
-- [ ] **URGENT** : Déclarer officiellement Studios 700 → contrats + mécanismes de paiement
-- [ ] Récupérer les 400 000 XOF impayés
-- [ ] Créer un compte bancaire dédié Studios 700
-- [ ] Instaurer 50% d'acompte systématique sur tous les projets
-- [ ] Créer la grille tarifaire clips artistes
-- [ ] Créer les forfaits mensuels restaurants & boîtes de nuit
-- [ ] Lancer le site web studios700.com (vitrine)
-- [ ] Recruter un monteur freelance (à la tâche)
-- [ ] Développer Instagram + TikTok Studios 700 (stratégie contenu)
-- [ ] Acheter Sony FX3 + stockage + lumières
-- [ ] Acheter NAS pour le stockage sécurisé
-- [ ] Créer merchandising équipe (T-shirts terrain)
+- [ ] **Administratif & Juridique** : Déclaration de la SARL 70/30 au CEPICI, ouverture de compte pro, mise en place des contrats.
+- [ ] **Finances** : Récupérer les impayés de 800 000 XOF (CDMG, Ami artiste, Boîte de nuit).
+- [ ] **Matériel** : Acheter la barrette RAM 16 Go DDR5, puis choisir entre A7S III d'occasion ou FX30.
+- [ ] **Délégation** : Tester les 3 monteurs volontaires en proxy avec une vidéo de test.
+- [ ] **Branding** : Intégrer le logo Studios 700 sur les créations (outro de 2s, collaborateur Instagram, filigranes).
 
 ---
 
@@ -246,9 +242,10 @@
 
 | Client | Description | Montant dû | Statut |
 |---|---|---|---|
-| Ami artiste (clip vidéo) | Solde clip — 400k total, 300k reçus | 100 000 XOF | Final livré, paiement attendu sous 2 jours |
+| Ami artiste (clip vidéo) | Solde clip — 400k total, 300k reçus | 100 000 XOF | Final livré, paiement attendu |
 | Propriétaire boîte de nuit | Vidéos du mois passé | 300 000 XOF | En attente |
-| **TOTAL** | | **400 000 XOF** | |
+| CDMG | Travaux édition 2025 — intégrés dans facture 2026 de 2M XOF | 400 000 XOF | Facture 2026 envoyée, acompte en attente |
+| **TOTAL** | | **800 000 XOF** | |
 
 ---
 
@@ -270,7 +267,22 @@
 
 ---
 
-## 14. NOTES LIBRES
+## 14. STRATÉGIE DE SCALING & VISION INTERNATIONALE
+> *Objectif : Positionner Studios 700 comme la maison de production de référence de l'afropop francophone et Alex Vianney comme réalisateur star.*
+
+### A. Les 3 Horizons de Croissance
+* **Horizon 1 (0–12 mois) — Incontournable local** : Déléguer les montages simples, se concentrer sur Blender/After Effects, s'installer au studio *Respective Hub* (Palmeraie) et signer 2–3 clips "signatures" pour la nouvelle vague du Rap Ivoire (Himra, Ameka Zrai).
+* **Horizon 2 (12–24 mois) — Le pont avec la France** : Décrocher un premier clip payé en euros pour un artiste de la diaspora basé en France, et positionner des services de 3D/VFX à distance depuis Abidjan.
+* **Horizon 3 (24–60 mois) — La marque mondiale** : Décrocher une représentation de réalisateur à l'international (Lagos, Paris, Londres) pour couvrir de gros événements mondiaux tout en s'appuyant sur Studios 700 pour la production.
+
+### B. Ce qu'il faut arrêter de faire :
+- **Dire oui aux projets < 150K–200K XOF** : Chaque petit projet bloque le temps nécessaire pour en faire un grand.
+- **Tout monter soi-même** : Seul le montage avec ta propre signature visuelle doit être fait par toi. Le reste doit être délégué (via la méthode des Proxies).
+- **Mesurer le succès uniquement au cash du mois** : La vraie métrique actuelle est : *« Ai-je produit ce mois-ci une pièce visuelle d'envergure internationale ? »*
+
+---
+
+## 15. NOTES LIBRES
 
 > Alex utilise la **dictée vocale** pour communiquer. Tenir compte des erreurs de transcription possible.
 > La réputation terrain se fait sous le nom **Alex Vianney** — Studios 700 est la structure qui va progressivement absorber cette réputation.

@@ -48,3 +48,24 @@
 **À améliorer :**
 - Formaliser les accords de sous-traitance par écrit
 - Facturer sous Studios 700 (pas sous Alex Vianney perso)
+
+---
+
+## 🤝 Délégation de montage & Collaborateurs
+**Ce qui se passe** : Alex est submergé par le temps de montage (sessions de 6h+), limitant la prospection et la croissance de Studios 700. Volonté de travailler avec des monteurs freelances.
+
+**Règles à appliquer :**
+- **Test de sélection obligatoire** : Donner le même projet de test de 30s aux nouveaux candidats (Reel dynamique) pour évaluer la ponctualité, l'autonomie et le respect du style graphique.
+- **Flux de travail léger (Proxies)** : Utiliser le flux de travail hors-ligne. Envoyer uniquement les fichiers proxies légers aux monteurs, et récupérer le fichier projet (.prproj) pour faire le rendu final 4K chez Studios 700. Évite les transferts de fichiers trop lourds à Abidjan.
+- **Rémunération par projet** : Fixer un tarif clair par type de livrable (ex: 20 000 XOF par Reel, 40 000 XOF par vidéo corporate). Aligner le paiement des monteurs sur les échéances payées par le client.
+
+---
+
+## 🎨 Branding & Signature des créations
+**Ce qui se passe** : La réputation personnelle "Alex Vianney" doit être transférée à l'entité "Studios 700" de manière cohérente sans déranger les clients.
+
+**Règles à appliquer :**
+- **Outro de fin de vidéo** : Intégrer systématiquement un fondu au noir de 2 secondes avec le logo Studios 700 officiel à la fin de chaque production vidéo.
+- **Instagram Collaborateur** : Publier les projets en co-auteur (Inviter un collaborateur : @studios700) pour faire bénéficier le compte de l'audience et de la viralité des clients.
+- **Filigrane de protection** : Envoyer les versions de validation (brouillons) avec un filigrane Studios 700 semi-transparent au milieu. Ne livrer la version finale propre qu'après réception totale du paiement final de 50%.
+
