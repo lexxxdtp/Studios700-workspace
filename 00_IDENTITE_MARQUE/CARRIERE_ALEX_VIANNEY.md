@@ -37,24 +37,27 @@
 
 ---
 
-## 🎓 3. PROGRAMME D'APPRENTISSAGE SUR 6 SEMAINES
-Pour débloquer tes compétences en VFX/3D et justifier des tarifs "Studio Créatif" premium, voici ta feuille de route d'apprentissage :
+## 🎓 3. PROGRAMME D'APPRENTISSAGE SUR 8 SEMAINES
+Pour débloquer tes compétences en VFX/3D et justifier les tarifs de ton catalogue d'offres créatives futures, voici ta feuille de route d'apprentissage :
 
 * **Semaine 1 — Fondamentaux & Psychologie de l'Animation (After Effects)** :
   - *Sujet* : Fluidité du mouvement (lissage de vitesse, courbes d'animation).
-  - *Délivrable* : Création d'une introduction animée fluide (Habillage vidéo, vendable ~100 000 XOF).
-* **Semaines 2-3 — Animation UI & Style Tech/Apple** :
+  - *Délivrable* : Création d'une introduction animée logo fluide (Habillage vidéo, vendable ~100 000 XOF).
+* **Semaines 2-3 — Animation UI & Style Tech/Apple (After Effects)** :
   - *Sujet* : Animation d'interfaces logicielles épurées (très demandée par les SaaS et startups tech).
   - *Délivrable* : Animation d'interface fictive de 20 secondes (vendable ~250 000 XOF).
 * **Semaines 3-4 — Spot Explicatif Complet (SaaS Explainer Ad)** :
   - *Sujet* : Narration visuelle intégrale liée à un argumentaire de vente.
   - *Délivrable* : Vidéo explicative animée de 45 secondes (Service premium vendable ~450 000 XOF).
-* **Semaines 4-5 — Immersion 3D (After Effects) & Habillage d'Interviews** :
-  - *Sujet* : Logique spatiale, caméras virtuelles et dynamisation de capsules d'interviews.
-  - *Délivrable* : Interview habillée (marge additionnelle de 100K à 250K XOF).
-* **Semaines 4+ (En fil rouge) — Blender 3D & Rendu Photoréaliste** :
-  - *Sujet* : Modélisation, lumières, textures et Camera Tracking (suivi de mouvement).
-  - *Délivrable* : Modélisation d'un objet publicitaire hautement réaliste (bouteille de parfum, montre). Base de l'incrustation 3D au studio *Respective Hub* (Palmeraie).
+* **Semaines 4-6 — Immersion Blender 3D & Rendu Photoréaliste** :
+  - *Sujet* : Modélisation, matériaux (verre, métaux, condensation), éclairage studio 3 points.
+  - *Délivrable* : Animation produit de 10s d'une canette ou d'un parfum réaliste (Option 3D vendable +100K à +250K XOF).
+* **Semaines 6-8 — Compositing & Publicités FOOH (Fake Out-Of-Home)** :
+  - *Sujet* : 3D Camera Tracking, intégration d'ombres et reflets réels (Shadow Catchers/HDRIs) et étalonnage CGI.
+  - *Délivrable* : Intégration d'un sac géant en 3D sur le pont HKB d'Abidjan (Spot FOOH vendable ~500 000 XOF).
+* **Semaine 8+ (En continu) — Loops LED de Scène & Concerts (After Effects / Blender)** :
+  - *Sujet* : Boucles d'animations infinies (VJ Loops) à haut contraste et résolution d'écrans géants (Resolume specs).
+  - *Délivrable* : 3 loops d'écrans abstraits prêtes à diffuser (Option Écrans Concerts vendable ~100 000 XOF / loop).
 
 ---
 
