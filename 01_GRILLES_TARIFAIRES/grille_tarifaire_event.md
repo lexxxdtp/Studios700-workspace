@@ -20,11 +20,15 @@
 | N° | Nom du Pack | Services Inclus | Format Garanti | PRIX (XOF) |
 |:--:|:--:|:--:|:--:|:--:|
 | A | **Affiche Animée (Teaser)** | Animation 2D/3D d'une affiche existante (motion design, effets visuels) | Vertical 9:16 (15–30 sec) | **75 000** |
-| B | **Pack Line-Up / Annonces** | Teaser d'annonce du concert + Affiche animée principale + animations annonce artistes | Multi-formats (9:16 & 16:9) | **150 000** |
-| C | **Visuels de Scène (LED Loops)** | Boucles vidéo animées 3D/VFX pour diffusion en arrière-plan pendant la performance | Horizontal 16:9 (Loops de 30 sec) | **100 000 / loop** ou **350 000 / pack (5 loops)** |
-| D | **Branding Événement Complet** | Logo animé (intro/outro) + Affiche animée + Pack Line-up + Aftermovie premium + 3 Loops d'écrans | Campagne complète | **600 000** |
+| B | **Teaser Reveal Hype** | Teaser d'annonce (3D / VFX / sound design) pour le lancement d'un concert ou de la billetterie | Multi-formats (9:16 & 16:9) | **100 000** |
+| C | **Pack Line-Up / Annonces** | Teaser d'annonce du concert + Affiche animée principale + animations annonce artistes | Multi-formats (9:16 & 16:9) | **150 000** |
+| D | **Visuels de Scène (LED Loops)** | Boucles vidéo animées 3D/VFX pour diffusion en arrière-plan pendant la performance | Horizontal 16:9 (Loops de 30 sec) | **100 000 / loop** ou **350 000 / pack (5 loops)** |
+| E | **Pack Sponsor LED 3D** | Loop animée premium 3D pour afficher les sponsors (Orange, Wave, Heineken, etc.) sur écran géant | Horizontal 16:9 (Boucle de 15 sec) | **120 000** |
+| F | **Aftermovie Premium FPV + VFX** | Recap d'événement haut de gamme : captation 4K, plans de drone FPV (Avata 2) immersifs, sound design cinématique et VFX | 60–90 secondes (16:9 + 9:16) | **450 000** |
+| G | **Branding Événement Complet** | Logo animé + Affiche animée + Pack Line-up + Aftermovie premium + 3 Loops d'écrans + Loop Sponsors | Campagne complète | **800 000** |
 
 ### Conditions & Options :
 - **Acompte 50% obligatoire** avant tout début de conception.
 - **Rendus 3D complexes (Blender)** : Sur devis selon complexité (généralement +50K à +150K XOF).
+- **Opérateur Drone FPV seul (Prestation brute)** : +100 000 XOF / jour.
 - **Livraison express (48h)** : +50 000 XOF.
