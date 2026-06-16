@@ -259,7 +259,7 @@
 |---|---|---|---|---|
 | Zénith de Paris — Didi B | Réalisateur de Didi B | ~30 animations visuelles sur écrans scène pendant le concert | 500 000 XOF | 2025/2026 |
 | Ninho — Concert Abidjan | Promoteur local | Captation vidéo multicam & drone du concert | À compléter | 2025 |
-| Freeze Corleone — Concert Abidjan | Promoteur local | Captation vidéo officielle et direction média | À compléter | 2024/2025 |
+| Freeverse — Événements Rap | Freeverse CI | Captation vidéo, photos & couverture de l'événement | À compléter | 2024/2025 |
 | Franglish — Concert Abidjan | Promoteur local | Direction de la couverture média vidéo officielle | À compléter | 2024 |
 | Joe Dwet Filé — Concert Abidjan | Joe Dwet Filé (artiste français) | Coverage 3 jours complets : aéroport, radio, TV, concert + drone. Photo + vidéo | À compléter | 2025 |
 | SDM — Concert Abidjan | SDM (rappeur français) | Spot promo + captation concert + affiches 12m² + tickets + infographie | À compléter | 2024/2025 |
@@ -271,7 +271,7 @@
 | Traphouse | Soirée nightlife premium Assinie | Récaps vidéo plusieurs éditions : Traphouse Winter, Traphouse x Bloom, Traphouse Rex | À compléter | 2025/2026 |
 
 > ⭐ **Didi B Zénith de Paris** : référence internationale — animations scène concert Paris.
-> ⭐ **Ninho, SDM, Freeze Corleone, Franglish** : Récaps officiels et captation live pour les plus grosses têtes d'affiche du rap francophone en tournée à Abidjan.
+> ⭐ **Ninho, SDM, Franglish & Freeverse** : Récaps officiels, captation live et couverture pour les plus grosses tournées d'artistes francophones et les plateformes rap de référence à Abidjan.
 > ⭐ **CAF (Confédération Africaine de Football)** : Accréditation officielle média de photojournaliste. Preuve de rigueur et d'accréditation institutionnelle de haut niveau.
 > ⭐ **Joe Dwet Filé & Morijah** : Coverage média de longue durée et relation de confiance avec des artistes phares locaux et diaspora.
 > ⭐ **Desperados (Heineken)** : Collaboration avec une multinationale de boissons pour du contenu de marque dynamique.
