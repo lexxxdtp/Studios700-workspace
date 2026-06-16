@@ -182,8 +182,11 @@
 - Objectif Sony 50mm f/1.8
 - Objectif Viltrox 16mm f/1.8 (Grand angle idéal pour clubs et événements)
 - Zoom 28-70mm f/2.8 (HS — Envoyé en France, irréparable, à remplacer)
-- Drone DJI Avata 2 (Pilotage FPV - pour les vidéos automobiles et festivals)
-- Stratégie d'achat immédiate : Acheter un zoom standard (type 24-70mm f/2.8) en priorité, et acquérir un **Sony A7S III d'occasion** ou une **Sony FX30 neuve** pour sécuriser le setup double caméra.
+- Drone DJI Avata 2 (Pilotage FPV - pour les vidéos de voitures et festivals)
+- Stabilisateur DJI RS 4 Pro (Gimbal haut de gamme)
+- Moniteur de terrain (Field Monitor) + Trépied professionnel + Batteries de secours
+- Kit Audio DJI Mic Mini (Micro sans fil de poche)
+- Stratégie d'achat immédiate : Acheter un zoom standard (type 24-70mm f/2.8) en priorité absolue pour remplacer le zoom cassé, et acquérir un **Sony A7S III d'occasion** ou une **Sony FX30 neuve** pour sécuriser le setup double caméra.
 
 ### Informatique
 - PC Tour : Intel i5-13500 + RTX 4070 (montage et rendu)
