@@ -78,39 +78,73 @@
 
 ---
 
-### Module 6 — Blender (piste parallèle, à partir Semaine 4, en continu)
-> *Ne t'éparpille pas : Blender est un marathon, pas un sprint. 1 session/semaine suffit, en plus d'AE.*
+### Module 6 — Rendu Produit 3D (Blender) (Semaines 4-6, en continu)
+> *Modéliser, éclairer et animer des produits réels pour débloquer les spots publicitaires premium.*
 
-**Ordre conseillé pour démarrer Blender (à chercher si pas déjà dans la playlist) :**
-1. Donut tutorial (Blender Guru) — l'incontournable pour les bases de l'interface
-2. Bases du motion 3D : caméra, éclairage, matériaux
-3. Rendu produit 3D (le plus utile pour la pub)
+- **Blender 4.0 Beginner Tutorial** (Blender Guru) : Donut incontournable pour maîtriser l'interface.
+- **Product Lighting in Blender** (Kaizen Tutorials) : Bases de l'éclairage de studio (3 points de lumière, reflets).
+- **Realistic Soda Can in Blender** (Derek Elliott) : Modélisation et matériaux (métal, condensation).
+- **Liquid Physics & Mantaflow** (CG Geek) : Simuler de petits éclaboussements de sauce ou de boissons (pour les restaurants).
 
-🎯 **Objectif Blender 1er mois** : modéliser + rendre **1 objet produit simple** propre. Pas plus. C'est déjà vendable en option "+100 000 XOF" sur la grille.
+🎯 **Livrable fin de module** : 1 mini-pub produit de 10s (ex: une canette de boisson locale qui tourne dans un éclairage studio néon avec condensation) -> **Débloque l'option 3D sur tes devis.**
+
+---
+
+### Module 7 — Compositing & Publicités FOOH (Fake Out-Of-Home) (Semaines 6-8)
+> *Apprendre à incruster la 3D dans le monde réel (Abidjan) pour créer de la viralité.*
+
+- **3D Camera Tracking in After Effects** (Premiere Gal) : Suivre une caméra smartphone bougeant dans la rue.
+- **Blender Camera Tracking for Beginners** (CG Matter) : Importer les mouvements de caméra réels dans Blender.
+- **Shadow Catchers & HDRI Lighting** (Kaizen Tutorials) : Faire poser des ombres réalistes et capter les reflets réels de la rue sur ton objet 3D.
+- **Color Matching CGI to Real Footage** (Cinecom.net) : Rendre l'intégration invisible grâce à l'étalonnage.
+
+🎯 **Livrable fin de module** : 1 vidéo FOOH de 15s (ex: un sac à main géant posé sur le toit d'un immeuble du Plateau ou le pont HKB) -> **Débloque le service FOOH à 500 000 XOF.**
+
+---
+
+### Module 8 — Loops LED de Scène (Concerts/Clubs) (Semaine 8+)
+> *Concevoir des boucles vidéo percutantes pour les écrans géants de concerts (Didi B style).*
+
+- **How to Create Loop Animations in After Effects** (Ben Marriott) : Techniques pour des transitions infinies.
+- **Abstract 3D Loop in Blender** (Ducky 3D) : Création de décors abstraits géométriques et futuristes rapides.
+- **Resolume Arena & LED Specs** (VJ Survival Kit) : Comprendre le ratio des écrans, les résolutions et le haut contraste pour que tes noirs soient parfaits sur scène.
+
+🎯 **Livrable fin de module** : 1 pack de 3 loops VJ abstraites et animées prêtes pour écran géant -> **Débloque l'Offre Écrans Concerts.**
+
+---
+
+### 🕹️ BONUS : Entraînement Drone FPV (DJI Avata 2)
+- **Voler en simulateur (1h/semaine)** : Pratiquer sur *Liftoff* ou *DJI Virtual Flight* avec la radiocommande FPV (RC Motion ou contrôleur) en mode manuel avant de risquer le drone réel en intérieur.
+- **Exercice** : Faire un vol de slaloms serrés à travers des chaises ou des arbres.
 
 ---
 
 ## 🔗 Ce que l'apprentissage débloque
 
-Chaque module produit une pièce de portfolio. À la fin des 6 semaines tu as de quoi remplir la démo **Afro Fusion** ET justifier les prix de la grille Studio Créatif :
+Chaque module produit une pièce de portfolio. À la fin du programme tu as de quoi remplir la démo **Afro Fusion** ET justifier les prix de tes grilles :
 
-| Module | Pièce produite | Pack vendable correspondant |
-|---|---|---|
-| 1 | Intro animée | Habillage — 100k |
-| 2 | Animation UI | Spot motion — 250k |
-| 3 | Explainer complet | Explainer/Pub SaaS — 450k |
-| 4 | Scène 3D | Option 3D — +100k à 250k |
-| 5 | Interview habillée | Capsule corporate — 300k |
+| Module | Pièce produite | Service / Pack correspondant | Tarif ciblé |
+|---|---|---|---|
+| 1 | Intro animée logo | Habillage signature | 100 000 XOF |
+| 2 & 3 | Animation UI / Explainer | Spot SaaS & App explainer | 250 000 – 450 000 XOF |
+| 6 | Rendu Canette/Montre 3D | Spot Produit 3D (Style Apple) | 800 000 XOF |
+| 7 | Sac géant sur pont HKB (CGI) | Spot Publicitaire FOOH (Viral) | 500 000 XOF |
+| 8 | Loops abstraites de scène | Visuels de scène (LED Loops) | 100 000 / loop |
+| FPV | Vol immersif en cuisine/salle | Aftermovie Premium FPV + VFX | 450 000 XOF |
 
-> **Ne lance pas le commercial (Paulé) sur le corporate avant d'avoir au moins les pièces des modules 2 et 3 en poche.** C'est ta preuve.
+> **Règle commerciale** : Utilise tes 98K abonnés TikTok pour documenter chaque étape. La vidéo *"J'apprends la 3D en 30 jours"* va te ramener tes premiers clients marques avant même que tu aies fini d'apprendre.
 
 ---
 
 ## ✅ Suivi (coche au fur et à mesure)
 
-- [ ] Module 1 — Fondations + intro Studios 700
-- [ ] Module 2 — SaaS/UI + 1ʳᵉ pièce portfolio
-- [ ] Module 3 — Explainer + pièce maîtresse
-- [ ] Module 4 — 3D After Effects
-- [ ] Module 5 — Talking head + polish
-- [ ] Module 6 — Blender : 1ᵉʳ rendu produit
+- [ ] **Module 1** — Fondations + Intro Studios 700
+- [ ] **Module 2** — SaaS/UI + 1ʳᵉ pièce portfolio
+- [ ] **Module 3** — Explainer + pièce maîtresse corporate
+- [ ] **Module 4** — 3D After Effects
+- [ ] **Module 5** — Talking head + polish interviews
+- [ ] **Module 6** — Blender : Rendu produit 3D propre
+- [ ] **Module 7** — Compositing : 1ᵉʳ spot FOOH (CGI réel)
+- [ ] **Module 8** — LED Loops : 3 loops de scène VJ
+- [ ] **FPV** — 10h de vol en simulateur + 1er vol en mode manuel réel
+
