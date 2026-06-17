@@ -15,6 +15,10 @@
 - [ ] **Mettre en place le contrat type de prestation** (à joindre systématiquement à chaque devis) :
   - [ ] Verrouiller la règle des **50% d'acompte obligatoire** avant tournage.
   - [ ] Verrouiller la livraison finale uniquement après paiement du solde.
+- [ ] **Campagne Trap House Summer 2K26 (Sponsor Hennessy)** :
+  - [ ] Rédiger et envoyer le devis global de campagne pour les 10 dates (viser 200 000 à 300 000 XOF/date).
+  - [ ] Négocier les conditions de facturation avec le gérant Raphaël et le sponsor Moët Hennessy (acompte global ou retainer mensuel).
+  - [ ] Préparer le forfait déplacement/hébergement (+75 000 XOF) pour l'édition d'Assinie-Mafia le jeudi 6 août.
 
 ---
 
@@ -28,6 +32,9 @@
   - [ ] Acheter des disques durs externes de backup temporaires.
   - [ ] Planifier l'achat d'un NAS pour centraliser tous les rushs de Studios 700.
 - [ ] **Objectif d'investissement futur** : Acquérir le MacBook Pro 16" (M4/M5 Max, 48 Go RAM, 1 To SSD) dès l'encaissement d'un gros marché pour centraliser ton workflow en mode nomade.
+- [ ] **Aménagement du studio physique (Respective Hub Palmeraie)** :
+  - [ ] Suivre la pose du cyclorama en bois et le peindre en blanc mat (fond infini).
+  - [ ] Fixer l'enseigne lumineuse néon rouge `@alexvianney` sur le mur pour ton arrière-plan de stream/vlog.
 
 ---
 
