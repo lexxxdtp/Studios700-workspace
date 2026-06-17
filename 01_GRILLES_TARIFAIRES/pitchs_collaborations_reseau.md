@@ -60,3 +60,21 @@ Se positionner comme l'arme secrète des autres réalisateurs. Tu es le spécial
 
 * **Gain financier** : **100 000 XOF / jour** de tournage FPV brut ou forfaits VFX à la tâche (200K - 400K XOF).
 * **Pourquoi ça marche** : Tu ne leur voles pas leurs clients, tu les aides à gagner de plus gros budgets. Ils t'adulent déjà, ils seront ravis de t'avoir dans leur équipe de production.
+
+---
+
+## 5. COLLABORATION AVEC LES INFLUENCEUSES (L'Accélérateur de Visibilité & Projets Marques)
+* **Cible** : Les influenceuses de mode, beauté, lifestyle et fitness à Abidjan qui sont ouvertes aux collaborations.
+* **Leur problème** : Elles signent des contrats de sponsoring avec des marques (cosmétiques, vêtements, hôtels, spas) mais leurs vidéos sont souvent filmées à la va-vite au téléphone. Elles veulent des vidéos de niveau publicitaire pour impressionner les marques et augmenter leurs tarifs de posts.
+
+### 💡 L'offre : "Le Pack Co-Promotion Brand Deal"
+Créer une vidéo de placement de marque ultra-cinématique pour elle, en échange d'une exposition maximale et d'un pont direct vers la marque.
+
+### 🗣️ Script de Pitch (WhatsApp / Instagram DM) :
+> « *Coucou [Nom de l'influenceuse], j'espère que tu vas bien. Je kiffe trop ton contenu mode/lifestyle. Pour ton prochain gros placement de produit (beauté, vêtements ou hôtel), je te propose qu'on s'associe. Studios 700 te produit une capsule vidéo ultra-cinématique avec un rendu pub internationale. Ça va bluffer la marque et te donner un énorme levier pour renégocier tes prochains contrats avec eux. En échange, on se fait un post en co-auteur sur Instagram pour l'audience. Dis-moi quand tu as ton prochain brief et on planifie ça !* »
+
+### 📈 Ce que cela te rapporte (Monétisation & Portée) :
+1. **Accès direct aux marques** : Quand la marque verra la vidéo produite par Studios 700, elle demandera immédiatement à l'influenceuse qui a réalisé ce chef-d'œuvre. L'influenceuse devient ton agent commercial gratuit auprès de la direction marketing de la marque.
+2. **Explosion d'audience** : Un post en co-auteur Instagram avec une influenceuse à 50K ou 100K abonnés à Abidjan propulse ta marque personnelle `@alexvianneyk` auprès d'une clientèle haut de gamme et de promoteurs d'événements.
+3. **Portfolio Beauté & Luxe** : Cela te permet de fabriquer de superbes spots de produits réels en situation (maquillage, mode, parfums) sans dépenser un sou en casting ou en décors.
+
