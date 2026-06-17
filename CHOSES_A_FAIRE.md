@@ -34,7 +34,10 @@
 - [ ] **Objectif d'investissement futur** : Acquérir le MacBook Pro 16" (M4/M5 Max, 48 Go RAM, 1 To SSD) dès l'encaissement d'un gros marché pour centraliser ton workflow en mode nomade.
 - [ ] **Aménagement du studio physique (Respective Hub Palmeraie)** :
   - [ ] Suivre la pose du cyclorama en bois et le peindre en blanc mat (fond infini).
-  - [ ] Fixer l'enseigne lumineuse néon rouge `@alexvianney` sur le mur pour ton arrière-plan de stream/vlog.
+- [ ] **Setup de ton appartement de travail (Ton Sanctuaire de Montage)** :
+  - [ ] Installer tes machines de montage (PC Tour RTX 4070 + MacBook Pro) dans ton nouvel appartement.
+  - [ ] Fixer l'enseigne lumineuse néon rouge `@alexvianney` sur le mur derrière toi pour ton arrière-plan de stream, vlogs et réunions clients.
+
 
 ---
 
