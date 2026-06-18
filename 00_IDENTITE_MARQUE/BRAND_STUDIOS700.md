@@ -187,7 +187,7 @@
 - Stabilisateur DJI RS 4 Pro (Gimbal haut de gamme)
 - Moniteur de terrain (Field Monitor) + Trépied professionnel + Batteries de secours
 - Kit Audio DJI Mic Mini (Micro sans fil de poche)
-- Stratégie d'achat immédiate : Acheter un zoom standard (type 24-70mm f/2.8) en priorité absolue pour remplacer le zoom cassé, et acquérir un **Sony A7S III d'occasion** ou une **Sony FX30 neuve** pour sécuriser le setup double caméra.
+- Stratégie d'achat immédiate : Acheter un zoom standard (type 24-70mm f/2.8) en priorité absolue pour remplacer le zoom cassé, et acquérir une **Sony FX30 neuve (Confirmé)** pour sécuriser le setup double caméra.
 
 ### Informatique
 - PC Tour : Intel i5-13500 + RTX 4070 (montage et rendu)
@@ -261,6 +261,7 @@
 | Ninho — Concert Abidjan | Promoteur local | Captation vidéo multicam & drone du concert | À compléter | 2025 |
 | Freeverse — Événements Rap | Freeverse CI | Captation vidéo, photos & couverture de l'événement | À compléter | 2024/2025 |
 | Franglish — Concert Abidjan | Promoteur local | Direction de la couverture média vidéo officielle | À compléter | 2024 |
+| Spot publicitaire LNB (Paris Sportifs) | Dy Rec. / mr_dyreck | Sauvetage VFX en urgence : 3D camera tracking, roto, incrustation application mobile | 100 000 XOF | 2026 |
 | Joe Dwet Filé — Concert Abidjan | Joe Dwet Filé (artiste français) | Coverage 3 jours complets : aéroport, radio, TV, concert + drone. Photo + vidéo | À compléter | 2025 |
 | SDM — Concert Abidjan | SDM (rappeur français) | Spot promo + captation concert + affiches 12m² + tickets + infographie | À compléter | 2024/2025 |
 | CAF (Confédération Africaine de Football) | CAF | Accréditation photojournaliste officielle (matchs et événements) | Tarifs presse | 2024/2025 |
@@ -274,7 +275,7 @@
 > ⭐ **Ninho, SDM, Franglish & Freeverse** : Récaps officiels, captation live et couverture pour les plus grosses tournées d'artistes francophones et les plateformes rap de référence à Abidjan.
 > ⭐ **CAF (Confédération Africaine de Football)** : Accréditation officielle média de photojournaliste. Preuve de rigueur et d'accréditation institutionnelle de haut niveau.
 > ⭐ **Joe Dwet Filé & Morijah** : Coverage média de longue durée et relation de confiance avec des artistes phares locaux et diaspora.
-> ⭐ **Desperados (Heineken)** : Collaboration avec une multinationale de boissons pour du contenu de marque dynamique.
+> ⭐ **Desperados (Heineken) & LNB (VFX)** : Campagnes publicitaires et collaborations avec des marques internationales (Boissons, Paris Sportifs).
 > → Ces références prestigieuses de tournées et d'événements majeurs sont des arguments de vente exceptionnels pour convaincre les sponsors et promoteurs d'investir sur du contenu de marque haut de gamme.
 
 ---
